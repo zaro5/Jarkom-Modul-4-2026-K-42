@@ -15,7 +15,7 @@
 
 ### Topologi CPT
 
-*input image*
+![Topologi_CPT](assets/Topologi_CPT.png)
 
 ## Perhitungan IP (VLSM dan CIDR)
 
