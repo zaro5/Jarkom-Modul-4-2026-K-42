@@ -28,7 +28,7 @@
 
     Cara melakukan routing adalah dengan melihat bagaimana jalur dari satu subnet ke subnet yang lainnya. Untuk detail routing per routernya ada pada file berikut:
 
-    [Routing semua route](ip-routings/CPT/ip-route.txt)
+    [Routing semua route](scripts/CPT/ip-route.txt)
 
 ### GNS - CIDR
 
